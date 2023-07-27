@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(pink, #85d6f9);
+}
+.heading{
+    text-align: center;
+}
+.Form
+{
+    text-align: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+.block{
+    background-color: aqua;
+    border-radius: 30px;
+    height: 30px;
+   
+    
+}
+.block1{
+    background-color: aqua;
+    border-radius: 30px;
+    height: 40px;
+    width: 150px;
+   
+}
+.block2{
+    background-color: aqua;
+    border-radius: 30px;
+    height: 40px;
+    width: 150px;
+    margin-top: 50px;
+  margin-left: 700px;
+}
+
+span{
+    border: 2px solid black;
+    margin: 15px 15px;
+    text-align: center;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: rgb(255, 196, 249);
+    width: 400px;
+    height: 40px;
+    float: left;
+    padding-left: 50px;
+   
+}
+
+.box{
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        justify-content: space-between;
+        width: auto;
+        height: auto;
+        border: 1px solid black;
+        
+        margin: 100px;
+       
+}
